@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productfalidate",
+        "uuid": 5887068,
+        "checksum": "ewmwh"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
